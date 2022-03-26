@@ -17,3 +17,17 @@ take courses in the profession and read specialized literature.
 - `HTML, CSS, SASS/SCSS, BEM-naming, adaptive layout`
 - `JavaScript`
 - `Git, Gulp`
+
+## Code examples
+
+```javascript
+function getCount(str) {
+  const vowels = ["a", "e", "i", "o", "u"];
+
+  const vowelsCount = str
+    .split("")
+    .filter((currentSymbol) => vowels.includes(currentSymbol)).length;
+
+  return vowelsCount;
+}
+```
