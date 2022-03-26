@@ -31,3 +31,31 @@ function getCount(str) {
   return vowelsCount;
 }
 ```
+
+## Experience
+
+- [HTML Academy](https://htmlacademy.ru/)  
+Mentor in Basic / Advanced Intensive  
+May 2017 - Present (2 years and 5 months)  
+Verification of practical tasks of students, code review, analysis of errors. Skype consulting. Acceptance of final projects.
+
+- [Ontico](https://ontico.ru/)  
+HTML/CSS coder  
+March 2018 - April 2019 (1 year and 2 months)  
+Layout of landing pages, letters in mailChimp, layout of articles on Habr.
+
+## Education  
+
+- ### University  
+
+  - Saint-Petersburg National Research University of Information Technologies, Mechanics and Optics  
+Web technology  
+2018 - 2020 (Master)
+
+  - Kurgan State University  
+Automation of technological processes and production  
+2014 - 2018 (Bachelor)  
+
+- ### Courses
+
+  - [JavaScript on coursera](https://www.coursera.org/account/accomplishments/records/KUMGPJ7WQ2XD)
