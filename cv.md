@@ -59,3 +59,7 @@ Automation of technological processes and production
 - ### Courses
 
   - [JavaScript on coursera](https://www.coursera.org/account/accomplishments/records/KUMGPJ7WQ2XD)
+
+## English
+
+Pre-Intermediate (A2)
